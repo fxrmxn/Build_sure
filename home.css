@@ -43,6 +43,7 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     white-space: nowrap;
+    color: black;
 }
 
 nav #logo{
